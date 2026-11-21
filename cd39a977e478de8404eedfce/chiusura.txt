@@ -1,0 +1,12 @@
+registro: METIS Italia - timbro di CHIUSURA dell'urna
+codice: cd39a977e478de8404eedfce
+ora_server: 2026-11-21T21:20:25+01:00
+chiusura: 2026-11-21 21:15:00
+schede: 20
+gettoni_usati: 20
+votanti: 20
+firma_versione: 2
+impronta_urna: 2011ddb28bed359cf5a4b3c5b2dc011492a4049cf3c11ebdd1049cb5798e492f
+impronta_file_urna: 6544218f317a674722ba08e325be602aadb3f0aa243d20542f0817a8d62725ac
+sigillo_lista: 1d8330ce16eb55b63100fdbf93106b51633468d35dd1fe2beb194b67e3095831
+impronta_chiave: FA37-7A02-13FD-81B6
